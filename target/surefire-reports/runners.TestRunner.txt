@@ -1,0 +1,134 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.507 sec <<< FAILURE!
+TC01 kullanici amazonda Nutella aratir(US1001 Kullanici amazon sayfasinda arama yapar)  Time elapsed: 0.095 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'kullanici amazon sayfasina gider' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("kullanici amazon sayfasina gider")
+public void kullanici_amazon_sayfasina_gider() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("kullanici Nutella icin arama yapar")
+public void kullanici_nutella_icin_arama_yapar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sonuclarin Nutella icerdigini test eder")
+public void sonuclarin_nutella_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sayfayi kapatir")
+public void sayfayi_kapatir() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+TC02 kullanici amazonda Java aratir(US1001 Kullanici amazon sayfasinda arama yapar)  Time elapsed: 0.003 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'kullanici amazon sayfasina gider' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("kullanici amazon sayfasina gider")
+public void kullanici_amazon_sayfasina_gider() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("kullanici Java icin arama yapar")
+public void kullanici_java_icin_arama_yapar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sonuclarin Java icerdigini test eder")
+public void sonuclarin_java_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sayfayi kapatir")
+public void sayfayi_kapatir() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+TC03 kullanici amazonda Iphone aratir(US1001 Kullanici amazon sayfasinda arama yapar)  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'kullanici amazon sayfasina gider' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("kullanici amazon sayfasina gider")
+public void kullanici_amazon_sayfasina_gider() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("kullanici iphone icin arama yapar")
+public void kullanici_iphone_icin_arama_yapar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sonuclarin iphone icerdigini test eder")
+public void sonuclarin_iphone_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sayfayi kapatir")
+public void sayfayi_kapatir() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+TC04 Kullanici amazonda nutella aratir(US1002 Kullanici Ortak Adimlari Background ile calistirir)  Time elapsed: 0.006 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'kullanici amazon sayfasina gider' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("kullanici amazon sayfasina gider")
+public void kullanici_amazon_sayfasina_gider() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("kullanici Nutella icin arama yapar")
+public void kullanici_nutella_icin_arama_yapar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sonuclarin Nutella icerdigini test eder")
+public void sonuclarin_nutella_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sayfayi kapatir")
+public void sayfayi_kapatir() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+TC05 Kullanici Amazonda Java Aratir(US1002 Kullanici Ortak Adimlari Background ile calistirir)  Time elapsed: 0.005 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'kullanici amazon sayfasina gider' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("kullanici amazon sayfasina gider")
+public void kullanici_amazon_sayfasina_gider() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("kullanici Java icin arama yapar")
+public void kullanici_java_icin_arama_yapar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sonuclarin Java icerdigini test eder")
+public void sonuclarin_java_icerdigini_test_eder() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sayfayi kapatir")
+public void sayfayi_kapatir() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

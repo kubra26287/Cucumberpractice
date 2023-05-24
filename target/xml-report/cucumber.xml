@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.203" tests="5" skipped="0" failures="5" errors="0">
+<testcase classname="US1001 Kullanici amazon sayfasinda arama yapar" name="TC01 kullanici amazonda Nutella aratir" time="0.02">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+Then kullanici Nutella icin arama yapar.....................................skipped
+And sonuclarin Nutella icerdigini test eder.................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="US1001 Kullanici amazon sayfasinda arama yapar" name="TC02 kullanici amazonda Java aratir" time="0.004">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+Then kullanici Java icin arama yapar........................................skipped
+And sonuclarin Java icerdigini test eder....................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="US1001 Kullanici amazon sayfasinda arama yapar" name="TC03 kullanici amazonda Iphone aratir" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+Then kullanici iphone icin arama yapar......................................skipped
+And sonuclarin iphone icerdigini test eder..................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="US1002 Kullanici Ortak Adimlari Background ile calistirir" name="TC04 Kullanici amazonda nutella aratir" time="0.005">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+Given kullanici Nutella icin arama yapar....................................skipped
+Then sonuclarin Nutella icerdigini test eder................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="US1002 Kullanici Ortak Adimlari Background ile calistirir" name="TC05 Kullanici Amazonda Java Aratir" time="0.001">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+Given kullanici Java icin arama yapar.......................................skipped
+Then sonuclarin Java icerdigini test eder...................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
